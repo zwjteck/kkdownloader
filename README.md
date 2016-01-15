@@ -1,5 +1,11 @@
 # kkdownloader
 安卓多线程下载
+
+
+
+使用方法如下：
+
+
 //0.
 		listView = (ListView)findViewById(R.id.listView1);
 		final TestAdapter testAdapter = new TestAdapter();
