@@ -6,7 +6,7 @@
 使用方法如下：
 
 
-//0.
+		//0.
 		listView = (ListView)findViewById(R.id.listView1);
 		final TestAdapter testAdapter = new TestAdapter();
 		
